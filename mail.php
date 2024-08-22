@@ -21,7 +21,7 @@
 	
 	ob_start();
 	?>
-		Hi imransdesign!<br /><br />
+		Hi Gembala !<br /><br />
 		<?php echo ucfirst( $name ); ?>  has sent you a message via contact form on your website!
 		<br /><br />
 		
